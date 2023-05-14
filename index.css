@@ -285,4 +285,20 @@ section{
         width: 100%;
         height: auto;
     }
+    .hero-text a.ctaa {
+        background: transparent;
+        border: 1px solid white;
+        margin-left: 0px;
+}
+}
+
+
+
+@media (max-width: 320px){
+  
+    .hero-text a.ctaa {
+        background: transparent;
+        border: 1px solid white;
+        margin-left: 0px;
+}
 }
